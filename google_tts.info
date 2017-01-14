@@ -1,0 +1,3 @@
+name = Google Text-to-Speech
+description = Uses the gTTS python library to generate speech for Eva.
+version = 0.1.0
